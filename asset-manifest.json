@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-blazeclan/static/css/main.afd7172b.chunk.css",
-    "main.js": "/react-blazeclan/static/js/main.23426f88.chunk.js",
-    "main.js.map": "/react-blazeclan/static/js/main.23426f88.chunk.js.map",
+    "main.js": "/react-blazeclan/static/js/main.ab96ff20.chunk.js",
+    "main.js.map": "/react-blazeclan/static/js/main.ab96ff20.chunk.js.map",
     "runtime-main.js": "/react-blazeclan/static/js/runtime-main.ef0a7731.js",
     "runtime-main.js.map": "/react-blazeclan/static/js/runtime-main.ef0a7731.js.map",
     "static/js/2.01bcb5ab.chunk.js": "/react-blazeclan/static/js/2.01bcb5ab.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ef0a7731.js",
     "static/js/2.01bcb5ab.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.23426f88.chunk.js"
+    "static/js/main.ab96ff20.chunk.js"
   ]
 }
