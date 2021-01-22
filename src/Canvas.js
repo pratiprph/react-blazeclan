@@ -67,7 +67,7 @@ function Canvas(){
 
   return (
     <div>
-      <p>On mouse drag we can draw some this</p>
+      <p>On mouse drag we can draw some this | refresh page to get new color everytime</p>
     <canvas
     onMouseDown={startDrawing}
     onMouseUp={finishDrawing}
